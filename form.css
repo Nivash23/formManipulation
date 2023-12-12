@@ -1,0 +1,9 @@
+#container{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+#form div{
+    margin:10px 10px 5px 5px;
+    font-weight: bold;
+}
